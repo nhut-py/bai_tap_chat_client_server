@@ -1,0 +1,3 @@
+Bài tập chat client and server
+Gồm một số bài chat group, tính tổng, tính tích, tính gia thừa,...
+Các bạn có thể tham khảo, ngoài ra có thể liên hệ đến email: nhutnhut.pip@gmail.com
